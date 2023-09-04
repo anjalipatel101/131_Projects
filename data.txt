@@ -1,0 +1,6 @@
+Joe_Biden 2021-present Jill 
+Jimmy_Carter 1977-1981 Rosalynn 
+Ronald_Reagon 1981-1989 Nancy 
+George_Bush 1989-1993 Barbara 
+Bill_Clinton 1993-2001 Hillary 
+George_W_Bush 2001-2009 Laura 
