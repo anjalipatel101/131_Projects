@@ -1,9 +1,8 @@
 // A1Q1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
 // Name: Anjali Patel & Connie Zhu
-// Course: Data Structures (CPSC 131), Section 05, Fall 2022
 // Assignment: Programming Assignment #1 : Question 1
-// Due Date: 8/31/22
+
 
 
 /* PURPOSE:
